@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Version: ",myutil.GetVersion())
+	fmt.Println("Version: ",myutil.GetBranch())
 }
